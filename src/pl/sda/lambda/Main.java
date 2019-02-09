@@ -64,7 +64,6 @@ public class Main {
                 .collect(Collectors.toList());
         movieList1.forEach(t -> System.out.println(t.getTitle()));
         movieList1.forEach(System.out::println);
-
-        //dshdskahkjsabsakj
+        
     }
 }
